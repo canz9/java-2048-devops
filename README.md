@@ -6,22 +6,22 @@ This helps make the project reproducible, consistent, and simple to share.
 
 Explanation of key code:
 
-Game.java
+Game.java-
 This file contains the main(String[] args) method that launches the game. This starts the GUI on the Swing event thread.
 
-Game2048.java
+Game2048.java-
 This class manages the game logic: moves, tile merging, scoring, checking if the game is over
 
-GameBoard2048.java
+GameBoard2048.java-
 This class handles: drawing the board, updating the UI, key presses from the player
 
-Tile.java
+Tile.java-
 Represents an individual tile on the grid. Stores the tile value (2, 4, 8, etc.).
 
-Utils.java
+Utils.java-
 Handles reading and writing saved score data.
 
-Tests
+Tests-
 The test file checks basic behavior like: tile movement, merging, adding new tiles, game-over logic. These tests run automatically in CI.
 
 How to Build and View the Project
