@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# IntelliJ just in case
+.idea/
+*.iml
+
+# OS cruft
+.DS_Store
+Thumbs.db
