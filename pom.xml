@@ -15,7 +15,7 @@
     </properties>
 
     <dependencies>
-        <!-- JUnit 4 for your tests -->
+        <!-- JUnit 4 for tests -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -26,14 +26,14 @@
 
     <build>
         <plugins>
-            <!-- Runs tests -->
+            <!-- Run tests with surefire -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.2.5</version>
             </plugin>
 
-            <!-- Creates an executable JAR with Run2048 as main class -->
+            <!-- Create executable JAR with Run2048 as main class -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
@@ -41,12 +41,11 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.upenn.cis1200.Run2048</mainClass>
+                            <mainClass>org.cis1200.twentyfortyeight.Run2048</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
 </project>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.056" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.059" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.17.10-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\admin_canz\AppData\Local\Temp\surefire6222105227318993816\surefirebooter-20251208185926441_3.jar C:\Users\admin_canz\AppData\Local\Temp\surefire6222105227318993816 2025-12-08T18-59-26_284-jvmRun1 surefire-20251208185926441_1tmp surefire_0-20251208185926441_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\admin_canz\AppData\Local\Temp\surefire18375731086408684496\surefirebooter-20251208201415628_3.jar C:\Users\admin_canz\AppData\Local\Temp\surefire18375731086408684496 2025-12-08T20-14-15_446-jvmRun1 surefire-20251208201415628_1tmp surefire_0-20251208201415628_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\admin_canz\DevOps Final Project\target\test-classes;C:\Users\admin_canz\DevOps Final Project\target\classes;C:\Users\admin_canz\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\admin_canz\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\admin_canz\AppData\Local\Temp\surefire6222105227318993816\surefirebooter-20251208185926441_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\admin_canz\AppData\Local\Temp\surefire18375731086408684496\surefirebooter-20251208201415628_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.17+10"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testResetKeepsGamePlayable" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.005"/>
+  <testcase name="testResetKeepsGamePlayable" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.0"/>
   <testcase name="testAddRandomTilesDoesNotCrash" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.0"/>
   <testcase name="testGameStartsNotOverAndScoreNonNegative" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.0"/>
   <testcase name="testMovesDoNotThrowAndKeepScoreValid" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.0"/>
