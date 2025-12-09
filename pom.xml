@@ -41,7 +41,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.cis1200.twentyfortyeight.Run2048</mainClass>
+                            <mainClass>org.cis1200.twentyfortyeight.Game</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
