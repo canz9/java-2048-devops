@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.17.10-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\admin_canz\AppData\Local\Temp\surefire7581377607221020637\surefirebooter-20251208202538585_3.jar C:\Users\admin_canz\AppData\Local\Temp\surefire7581377607221020637 2025-12-08T20-25-38_393-jvmRun1 surefire-20251208202538585_1tmp surefire_0-20251208202538585_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\admin_canz\AppData\Local\Temp\surefire12722281975816635395\surefirebooter-20251208202822064_3.jar C:\Users\admin_canz\AppData\Local\Temp\surefire12722281975816635395 2025-12-08T20-28-21_893-jvmRun1 surefire-20251208202822064_1tmp surefire_0-20251208202822064_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\admin_canz\DevOps Final Project\target\test-classes;C:\Users\admin_canz\DevOps Final Project\target\classes;C:\Users\admin_canz\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\admin_canz\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\admin_canz\AppData\Local\Temp\surefire7581377607221020637\surefirebooter-20251208202538585_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\admin_canz\AppData\Local\Temp\surefire12722281975816635395\surefirebooter-20251208202822064_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.17+10"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testResetKeepsGamePlayable" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.003"/>
+  <testcase name="testResetKeepsGamePlayable" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.0"/>
   <testcase name="testAddRandomTilesDoesNotCrash" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.0"/>
   <testcase name="testGameStartsNotOverAndScoreNonNegative" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.0"/>
   <testcase name="testMovesDoNotThrowAndKeepScoreValid" classname="org.cis1200.twentyfortyeight.TwentyFortyEightTest" time="0.0"/>
